@@ -5,14 +5,18 @@
 @use "sass:color";
 
 :root {
-  --global-bg-color: #{$white-color};
+  // --global-bg-color: #{$white-color};
+  --global-bg-color: #f5f5f0;  // new off-white background
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  // --global-theme-color: #{$purple-color};
+  --global-theme-color: #2e8b57;  // new sea green
+  // --global-hover-color: #{$purple-color};
+  --global-hover-color: #3cb371;  // new medium sea green
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-dark};
+  // --global-footer-bg-color: #{$grey-color-dark};
+  --global-footer-bg-color: #1a4731;  // new darker green
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
@@ -75,14 +79,18 @@
 }
 
 html[data-theme="dark"] {
-  --global-bg-color: #{$grey-color-dark};
+  // --global-bg-color: #{$grey-color-dark};
+  --global-bg-color: #0a1f14;  // new very dark green
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  // --global-theme-color: #{$cyan-color};
+  --global-theme-color: #4caf50;  // new green
+  // --global-hover-color: #{$cyan-color};
+  --global-hover-color: #66bb6a;  // new lighter green
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-light};
+  // --global-footer-bg-color: #{$grey-color-light};
+  --global-footer-bg-color: #1b5e20;  // new dark green
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
