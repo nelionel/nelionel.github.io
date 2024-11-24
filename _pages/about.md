@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: jonˈel kjˈosa <audio id="name-audio" style="height:15px; width:20px; vertical-align: middle;" controls><source src="/assets/audio/name.mp3" type="audio/mpeg"></audio>
+
 
 profile:
   align: right
