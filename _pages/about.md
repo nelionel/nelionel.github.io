@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: jonˈel kjˈosa <audio id="name-audio" style="height:15px; width:20px; vertical-align: middle;" controls><source src="/assets/audio/name.mp3" type="audio/mpeg"></audio>
+subtitle: 'jonˈel kjˈosa <audio id="name-audio" style="height:15px; width:20px; vertical-align: middle;" controls><source src="/assets/audio/name-pronunciation.mp3" type="audio/mpeg"></audio>'
 
 
 profile:
