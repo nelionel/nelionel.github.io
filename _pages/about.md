@@ -9,15 +9,15 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 02139, Cambdrige, MA
+  more_info: >
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a 4th year undergraduate student at MIT majoring in Math and CS, with a focus on deep learning. Currently, I am exploring AI Alignment through mechanistic intereretability and I am trying to make sense of the pregressively more complex and urgent AI-risk landscape by writing a [series of blogs](https://nelionel.github.io/Distiling my model of the AI-risk landscape). It does not exist yet. 
+Hi! I'm a 4^(th) year Math and CS student at MIT, focusing on deep learning. My research explores AI Alignment through mechanistic interpretability, and I'm writing about AI risk at my blog (coming soon!): [Distilling my model of the AI-risk landscape](https://nelionel.github.io/).
 
-In my free time I like to write, run, play tennis, badminton, and guitar.
+Outside academics, I enjoy writing, running, tennis, badminton, and playing guitar.
 
-Feel free to stalk me on [facebook](https://www.facebook.com/profile.php?id=100010081325607). Ideally there would be a lot more cool stuff here. 
+This site is under construction - please excuse any template remnants!
